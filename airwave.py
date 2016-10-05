@@ -1,6 +1,8 @@
 import netmiko
 import getpass
 
+#testing git
+
 usrname = raw_input("Username: ")
 pswd = getpass.getpass('Password:')
 
