@@ -1,7 +1,6 @@
 import netmiko
 import getpass
 
-
 usrname = raw_input("Username: ")
 pswd = getpass.getpass('Password:')
 
