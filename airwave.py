@@ -1,3 +1,5 @@
+#tests each vc to see if its in mgmt mode
+
 import netmiko
 import getpass
 
